@@ -5,6 +5,6 @@
 Super useful project that taught me how a proper webpage works. Here's what I did:
 * Created the server using Flask
 * Created the database for the messages of the "Contact Me" section
-* Created the "Thank You" page for the people that send me a message
+* Created the "Thank You" page with HTML for the people that send me a message
 * Learned how to use Favicon to fully personalize my webpage
 * Hosted the server in https://www.pythonanywhere.com/
